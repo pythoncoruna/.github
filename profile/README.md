@@ -1,5 +1,7 @@
 # Welcome to Python Coruña 👋
 
+![banner](https://user-images.githubusercontent.com/7774855/219207383-f4aa16f5-6329-4868-986c-6009f5886a8a.JPG)
+
 Here is a list of useful resources to learn from and/or practice some web technologies and a list of awesome projects to get inspiration from and/or to learn and use.
 
 If you want to add your project to the list or if you known an useful resource (course, web, tool, etc.) which is not listed below, you can tell us in our [Discussions project](https://github.com/orgs/pythoncoruna/discussions).
